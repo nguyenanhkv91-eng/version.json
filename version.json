@@ -5,7 +5,7 @@
         "version": "V18",
         "release_notes": "Bản đầu tiên Auto Review Pro",
         "force_update": false,
-        "base_url": "https://raw.githubusercontent.com/nguyenanhkv91-eng/version.json/main/auto_review_pro_files/",
+        "base_url": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/AutoReviewPro_V2.4.zip",
         "files": {}
     }
 }
