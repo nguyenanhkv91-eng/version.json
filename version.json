@@ -1,11 +1,11 @@
 {
     "version": "V38",
-    "link": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/NAC_TOOL_AFF_V38.zip",
+    "link": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/NAC_TOOL_AFF_V42.zip",
     "auto_review_pro": {
-        "version": "V24",
+        "version": "V25",
         "release_notes": "Bản đầu tiên Auto Review Pro",
         "force_update": false,
-        "base_url": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/AutoReviewPro_V2.4.zip",
+        "base_url": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/AutoReviewPro_V25.zip",
         "files": {}
     }
 }
