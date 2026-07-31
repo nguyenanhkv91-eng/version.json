@@ -2,8 +2,8 @@
     "version": "V38",
     "link": "https://github.com/nguyenanhkv91-eng/version.json/releases/download/Update_NAC_TOOL_AFF/NAC_TOOL_AFF_V42.zip",
     "auto_review_pro": {
-        "version": "V29",
-        "release_notes": "Bản V29 Auto Review Pro",
+        "version": "V30",
+        "release_notes": "Bản V30 Auto Review Pro",
         "force_update": false,
         "base_url": "https://drive.usercontent.google.com/download?id=16HdqB8b1kPP-fJrDk5hjlrqnPxmZgGNm&export=download&authuser=0&confirm=t&uuid=7afc4b84-4ac3-473b-a758-fa8bc86f5e67&at=AFYLz4O4BaxRYMKzLE4KykMWv1pN%3A1785490270873",
         "files": {}
